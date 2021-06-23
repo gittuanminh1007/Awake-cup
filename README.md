@@ -18,7 +18,7 @@
 
 1. Sau khi cài đặt môi trường phát triển. Clone source từ git với
 ```
-git clone https://github.com/datnt908/awake-cup.git
+git clone https://github.com/gittuanminh1007/Awake-cup.git
 ```
 
 3.  Để chạy được aspnetcore
